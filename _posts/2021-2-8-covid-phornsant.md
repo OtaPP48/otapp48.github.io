@@ -91,8 +91,9 @@ published: true
 
 {% include image.html url="/images/covid-phornsant/IMG_0038.jpg" %}
 ## เชิงอรรถ
-[^1]: หม้ออวยเป็นหม้อโบราณชนิดหนึ่ง หมูในอวยเป็นสำนวนหมายถึงสิ่งที่อยู่ในกำมือ 
+[^1]: หม้ออวยเป็นหม้อโบราณชนิดหนึ่ง หมูในอวยเป็นสำนวนหมายถึงสิ่งที่อยู่ในกำมือ
+
 [^2]: รพ.สต. ย่อมาจาก โรงพยาบาลส่งเสริมสุขภาพตำบล
 
-##.
+## .
 <div class="fb-comments" data-href="https://otapp48.github.io/covid-phornsant/" data-width="" data-numposts="5"></div>
