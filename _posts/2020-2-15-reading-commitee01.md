@@ -1,6 +1,6 @@
 ---
 layout: post
-title: reading-commitee01
+title: ชนกานต์  ใจมา และ สุรไกร  นันทบุรมย์&#58;  การให้คะแนนหนังสือนอกเวลา
 author: np_304
 published: true
 ---
