@@ -2,6 +2,9 @@
 layout: post
 title: ชนกานต์  ใจมา และ สุรไกร  นันทบุรมย์&#58;  การให้คะแนนหนังสือนอกเวลา
 author: np_304
+phtg: pp_331
+intw: ws_341
+iwdate: 2021-1-10
 published: true
 ---
 
