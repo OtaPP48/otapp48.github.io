@@ -43,7 +43,7 @@ Maybe you can have that on a certain day when they are not studying like Wednesd
 
 **Jane:** The major advantage of the uniform is that you eliminate any social status or social class. We do not need to be outstanding because if you are wearing a private clothes, those from the upper class would be wearing a branded clothes. That is what the implementation of uniform tries to delete, that kind of social economic status. 
 
-> “ … if you are wearing a private clothes, those from the upper class would be wearing a branded clothes.”> 
+> “ … if you are wearing a private clothes, those from the upper class would be wearing a branded clothes.”
 
 The major fallback of the uniform is that we make all our students into something totally uniform like a mass product. These days, especially at KVIS, students are very different. Even though they are all Thais, they have ranges of opinions, and I love that. I don’t want to see eighteen of my students looking the same in the classroom. 
 
